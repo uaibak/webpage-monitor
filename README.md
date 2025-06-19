@@ -119,6 +119,6 @@ python main.py
 
 ## 👤 Author
 
-- Made by Muhammad Umar Aiba
+- Made by Muhammad Umar Aibak
 
 
